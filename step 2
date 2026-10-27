@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit of SlotFinder"
+git branch -M main
+git remote add origin https://github.com/<your-username>/slot-finder.git
+git push -u origin main
